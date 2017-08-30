@@ -1,0 +1,3 @@
+$ python setup.py register sdist upload
+...
+$ pip install my-first-package-script
